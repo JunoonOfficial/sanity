@@ -19,9 +19,14 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sanity": "^3.43.0",
+    "sanity-plugin-singleton-tools": "^1.0.1",
     "styled-components": "^6.1.8"
   },
   "devDependencies": {
+    "@babel/core": "^7.24.6",
+    "@babel/eslint-parser": "^7.24.6",
+    "@babel/preset-env": "^7.24.6",
+    "@babel/preset-react": "^7.24.6",
     "@sanity/eslint-config-studio": "^4.0.0",
     "@types/react": "^18.0.25",
     "eslint": "^8.6.0",
